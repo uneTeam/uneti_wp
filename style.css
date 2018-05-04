@@ -1,0 +1,21 @@
+/*Template Name: Uneti_theme*/
+
+
+*{
+	margin:0;
+	padding:0;
+}
+
+img{
+	max-width:100%;
+	display: block;
+	width: auto;
+	height: auto;
+}
+
+body{
+	max-width: 860px;
+	margin:0 auto;
+	background: lightgray;
+	color: black;
+}
